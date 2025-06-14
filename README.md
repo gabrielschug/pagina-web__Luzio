@@ -1,4 +1,4 @@
-# 🌐 Página Web - Empresa de Software (fictícia)
+# 🌐 Landing Page
 
 Este repositório contém o código-fonte de uma página web desenvolvida com **HTML5** e **CSS3**, como parte do meu processo de aprendizagem e desenvolvimento de habilidades em **Desenvolvimento Front-End**.
 
